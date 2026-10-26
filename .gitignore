@@ -1,0 +1,16 @@
+# Original full-size source images and the old Figma export (the site uses the optimized copies in public/images)
+/images/
+/index.html
+/styles.css
+/download-images.bat
+/download-images.sh
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Netlify CLI
+.netlify/
